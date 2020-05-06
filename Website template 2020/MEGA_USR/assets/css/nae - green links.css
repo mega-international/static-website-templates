@@ -1,0 +1,1736 @@
+/*--- Nae ---*/
+body.nae
+{
+	font-size: 8pt;
+	font-family: Arial;
+	background-color: White;
+}
+
+ul.nae
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	padding: 0px;
+}
+
+td.nae
+{
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Arial;
+	vertical-align: top;
+	padding: 1px;
+	margin: 1px;
+	border:1px solid gray;  
+}
+
+.charttable p.charttitle
+{
+	color: #00457E;
+	font-size: 12px;
+	font-family: Arial;
+	border-bottom-style: solid;
+	border-bottom-color: #b8b6a9;
+	border-bottom-width: 1px;
+	margin: 10px;
+}
+
+caption
+{
+    caption-side: bottom;
+}
+
+.naevertical {
+	white-space: nowrap;
+    transform:rotate(90deg) translateY(-100%);
+	-ms-transform:rotate(90deg) translateY(-100%);
+	position: absolute;
+	transform-origin:top left;
+	-ms-transform-origin:top left;
+}
+
+th.nae
+{
+   font-weight: normal;
+   font-size: 10pt;
+   font-family: Arial;
+   vertical-align: top;
+   border:1px solid #D9D4C3;
+   padding: 1px;
+   margin: 1px;
+   color:#000000;
+   font-weight: bold;
+   min-width: 15px;
+}
+
+th.naetitle
+{
+	font-weight: bold;
+   font-size: 10pt;
+   font-family: Arial;
+   vertical-align: top;
+   text-align: left;
+   background-color: #E8E6DE;
+   border:1px solid #D9D4C3;
+   	padding: 1px;
+	margin: 1px;
+}
+
+table.nae, tbody.nae, tr.nae , thead.nae
+{
+    vertical-align:top;
+    font-size: 8pt;
+	font-color: #333333;
+    border-collapse:collapse;
+	padding: 0px;
+	margin: 0px;
+}
+
+td.nae, th.nae
+{
+    vertical-align:top;
+	padding: 2px;
+	margin: 1px;
+	border:1px solid #D9D4C3;
+}
+
+.empty
+{
+	padding: 0px;
+	margin: 0px;
+	border: 0px;
+}
+
+.report
+{
+	position: relative;
+	width: 100%;
+	visibility:visible;
+	display:block;
+}
+
+
+/* ===== */
+/* title */
+/* ===== */
+td.title
+{
+   font-weight: bold;
+   font-size: 10pt;
+   font-family: Arial;
+   vertical-align: top;
+   padding-top:10px;
+   padding-bottom:5px
+}
+
+/* ===== */
+/* basic */
+/* ===== */
+TABLE
+{
+    font-size: 8pt;
+    padding:0;
+    border-collapse:collapse;
+    border-style:none;
+}
+
+
+table.basic tr td.columnHeaderOdd, table.basic tr td.columnHeaderEven
+{
+	font-weight: bold;
+	font-size:8pt;
+	padding-top:0;
+	padding-bottom:10px;
+	padding-right:0;
+	width:auto;
+	text-align:center;
+}
+
+.hidden
+{
+	display:none;
+}
+
+.displayed
+{
+	display:"";
+}
+
+.tableTitle
+{
+	text-align:center;
+	font-weight:bold;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:8px;
+	padding-right:8px;
+	border-top-width:2px;
+	border-top-color:Black;
+	border-top-style:solid;
+	border-left-width:2px;
+	border-left-color:Black;
+	border-left-style:solid;
+	border-right-width:2px;
+	border-right-color:Black;
+	border-right-style:solid;
+}
+
+.border_black
+{
+	border-color:Black;
+}
+
+.border_blue
+{
+/*	/!\ OU #EDEDED suivant les fichiers /!\ */
+	border-color:#B8B1A5;
+	border-bottom:1px solid #B8B1A5;
+	border-top:1px solid #B8B1A5;
+	border-right-color:#B8B1A5;
+	border-left-color:#B8B1A5;
+}
+
+.border_leftThick
+{
+	border-left-width:2px;
+	border-left-color:Black;
+	border-left-style:solid;
+}
+
+.border_leftPlain
+{
+	border-left-width:1px;
+	border-left-style:solid;
+}
+
+.border_leftDashed
+{
+	border-left-width:1px;
+	border-left-color:#EDEDED; /* ou #C0C0C0 */
+	border-left-style:solid;
+}
+
+.border_topThick
+{
+	border-top-width:2px;
+	border-top-color:Black;
+	border-top-style:solid;
+}
+
+.border_topPlain
+{
+	border-top-width:1px;
+	border-top-style:solid;
+}
+
+.border_topDashed
+{
+	border-top-width:1px;
+	border-top-color:#EDEDED;/* ou #C0C0C0 */
+	border-top-style:solid;
+}
+
+.border_rightThick
+{
+	border-right-width:2px;
+	border-right-color:Black;
+	border-right-style:solid;
+}
+
+.border_rightPlain
+{
+	border-right-width:1px;
+	border-right-style:solid;
+}
+
+.border_rightDashed
+{
+	border-right-width:1px;
+	border-right-color:#EDEDED;/* ou #C0C0C0 */
+	border-right-style:solid;
+}
+
+.border_bottomThick
+{
+	border-bottom-width:2px;
+	border-bottom-color:Black;
+	border-bottom-style:solid;
+}
+
+.border_bottomPlain
+{
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+}
+
+.border_bottomDashed
+{
+	border-bottom-width:1px;
+	border-bottom-color:#EDEDED;/* ou #C0C0C0 */
+	border-bottom-style:solid;
+}
+
+.tableLegend
+{
+	text-align:right;
+}
+
+.tableInnerRightLegend
+{
+	text-align:right;
+}
+
+.noResult
+{
+	font-style:italic;
+}
+
+.spaceRow_2
+{
+	font-size: 2pt;
+	height:2pt;
+	padding:0;
+}
+
+.centerBold
+{
+	text-align:center;
+	font-weight:bold;
+}
+
+.bold
+{
+	font-weight:bold;
+}
+
+.centered
+{
+	text-align:center;
+}
+
+.top
+{
+	vertical-align:top;
+}
+
+.middle
+{
+	vertical-align:middle;
+}
+
+.bottom
+{
+	vertical-align:bottom;
+}
+
+.padding_0
+{
+	padding:0;
+}
+
+.valignMiddle
+{
+	vertical-align:middle;
+}
+
+.green
+{
+	background-color:#74f480;
+}
+
+.orange
+{
+	background-color:#f4e574;
+}
+
+.red
+{
+	background-color:#f47474;
+}
+
+.rectangle
+{
+	float:left;
+}
+
+/* ========= */
+TD.AnalysisCentral
+{
+  background-color:white;
+  padding:4px;
+}
+
+.AnalysisBigTitle
+{
+	font-weight: bold;
+	font-size: medium;
+	color: black;
+	font-family: Arial;
+}
+
+.AnalysisTitle
+{
+	font-weight: bold;
+	font-size: medium;
+	color: black;
+	font-family: Arial;
+}
+
+/* ========= */
+/* lightGrey */
+/* ========= */
+.lightGrey
+{
+	font-style:italic;
+	background-color:#dcdcdc;
+}
+
+/* ==== */
+/* bold */
+/* ==== */
+.bold
+{
+	font-weight: bold;
+}
+
+/* ============= */
+/* boldSeparated */
+/* ============= */
+.boldSeparated
+{
+	font-weight: bold;
+	padding-bottom:10px;
+	padding-top:15px;
+}
+
+/* ====== */
+/* matrix */
+/* ====== */
+.matrix tr td.columnHeaderOdd, .matrix tr td.columnHeaderEven
+{
+	font-weight: bold;
+}
+
+/* ====== */
+/* legend */
+/* ====== */
+.legend tr td.columnHeaderOdd, .legend tr td.columnHeaderEven
+{
+	font-weight: bold;
+}
+
+.legend tr td.rowHeaderOdd, .legend tr td.rowHeaderEven
+{
+	font-weight: bold;
+}
+
+.legend tr td.odd, .legend tr td.even
+{
+	font-weight:normal;
+}
+
+/* =========== */
+/* description */
+/* =========== */
+table.description
+{
+	width:100%;
+}
+
+table.description tr td.columnHeaderOdd, table.description tr td.columnHeaderEven
+{
+	font-weight: bold;
+	font-size:8pt;
+	padding-bottom:10px;
+	padding-top:10px;
+	width:auto;
+}
+
+table.description tr td.odd, table.description tr td.even
+{
+	font-size:8pt;
+	width:auto;
+	padding-bottom:0;
+	padding-right:0;
+}
+
+/* ================ */
+/* descriptionValue */
+/* ================ */
+
+table.descriptionValue
+{
+	width:100%;
+}
+
+/* Description */
+/* ----------- */
+/* . Header */
+.descriptionValue tr td.columnHeaderOdd
+{
+	font-weight: bold;
+	font-size:10pt;
+	width:30%;
+	padding-right:10;
+	padding-bottom:0;
+	padding-top:0;
+}
+/* . Content */
+.descriptionValue tr td.odd
+{
+	width:30%;
+	padding-right:10px;
+	text-align:justify;
+	padding-bottom:12px;
+	padding-top:0;
+}
+
+/* Value */
+/* ----- */
+/* . Header */
+.descriptionValue tr td.columnHeaderEven
+{
+	width:auto;
+	font-weight: bold;
+	font-size:10pt;
+	padding-bottom:0;
+	padding-top:0;
+}
+
+.descriptionValue tr td.even
+{
+	width:auto;
+	padding-bottom:12px;
+	padding-top:0;
+}
+
+/* ======== */
+/* valueSet */
+/* ======== */
+table.valueSet tr td.columnHeaderOdd, table.valueSet tr td.columnHeaderEven
+{
+	width:auto;
+	font-weight: bold;
+	font-size:8pt;
+	padding-bottom:0;
+	padding-right:0;
+	width:auto;
+}
+
+table.valueSet tr td.odd, table.valueSet tr td.even
+{
+	font-size:8pt;
+	width:auto;
+	padding-bottom:0;
+	padding-right:0;
+}
+
+/* ======== */
+/* CH1_RH_C */
+/* ======== */
+
+table.CH1_RH_C tr td.columnHeaderOdd, table.CH1_RH_C tr td.columnHeaderEven
+{
+	font-weight: bold;
+	font-size:8pt;
+	padding-top:0;
+	padding-bottom:10px;
+	padding-right:0;
+	width:auto;
+}
+
+table.CH1_RH_C tr td.Odd, table.CH1_RH_C tr td.Even
+{
+	font-size:8pt;
+	padding-top:0;
+	padding-bottom:0;
+	padding-right:0;
+	width:auto;
+}
+
+td.CLeft
+{
+    text-align:left;
+}
+
+td.CRight
+{
+    text-align:right;
+}
+
+.DefElementClass table
+{
+    border-style:none;
+}
+
+.DefElementClassAlt table
+{
+    border-style:none;
+}
+
+/* =========== */
+/* Analysis List */
+/* =========== */
+
+table.analysisTypeList
+{
+	border-color:Black;
+	border-width:1px;
+	border-top-style:solid;
+	border-left-style:solid;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	width:100%;
+	font-size: 6pt;
+	font-family: Arial;
+	color: black;
+}
+
+td.analysisTypeList
+{
+	padding: 2px;
+}
+
+.analysisTemplate
+{
+	background-color: #efefef;
+}
+
+.rootFolder
+{
+	background-color: #cccccc;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-color:Black;
+	font-size: 12pt;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.folder
+{
+	padding: 2px;
+	background-color: #99ccff;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-color:Black;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+/* ======================= */
+/* Indicator Status Colors */
+/* ======================= */
+/* Green */
+.statusColor4
+{
+	background-color:#99CC99;
+}
+
+/* Yellow */
+.statusColor3
+{
+	background-color:#FFFF66;
+}
+
+/* Orange */
+.statusColor2
+{
+	background-color:#FFCC33;
+}
+
+/* Red */
+.statusColor1
+{
+	background-color:#FF6633;
+}
+
+/* Dark Red */
+.statusColor0
+{
+	background-color:#CC0000;
+}
+
+td.PlusMinusImage
+{
+     width:10px;
+     vertical-align:middle;
+     border:none;
+     border-top:none;
+     border-left:none;
+}
+
+.greenPertinentAnalysis
+{
+	background-color:#b2edb9;
+}
+
+.orangePertinentAnalysis
+{
+	background-color:#edeab2;
+}
+
+table.showHideTablePertinentAnalyses
+{
+  border:1px solid #B8B1A5;
+  width:100%;
+}
+
+table.showHideTablePertinentAnalyses td.green
+{
+	font-weight: bold;
+	font-size: 12px;
+	color:black;
+	font-family: Arial;
+	vertical-align: top;
+    background-color:#74f480;
+	border-bottom:1px solid #B8B1A5;
+}
+
+table.showHideTablePertinentAnalyses td.orange
+{
+	font-weight: bold;
+	font-size: 12px;
+	color:black;
+	font-family: Arial;
+	vertical-align: top;
+    background-color:#f4e574;
+	border-bottom:1px solid #B8B1A5;
+}
+
+table.showHideTablePertinentAnalyses td.content {
+  padding:10px;
+}
+
+
+table.showHideTablePertinentAnalyses_TemplateFolder
+{
+	width:100%;
+}
+
+table.showHideTablePertinentAnalyses_TemplateFolder td.content {
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:15px;
+}
+
+table.showHideTablePertinentAnalyses_TemplateFolder td.showHideTablePertinentAnalyses_TemplateFolder_Title
+{
+	font-weight: bold;
+	font-size: 12px;
+	color:black;
+	font-family: Arial;
+	vertical-align: middle;
+	background-color:#f5f4f6;
+}
+
+.buttonPertinentAnalyses
+{
+	font-size: 11px;
+	color:black;
+	font-family: Arial;
+}
+
+/* AsIsToBe popup diagram fix */
+.AsIsToBeBackGroundBlue
+{
+	background-color: #3399FF;
+}
+
+.AsIsToBeBackGroundRed
+{
+	background-color: #FF6666;
+}
+
+.AsIsToBeBackGroundGreen
+{
+	background-color: #5DBF67;
+}
+
+.AsIsToBeBackGroundOrange
+{
+	background-color: #EED21F;
+}
+
+.BorderLightGrey
+{
+    border:1px solid #B8B1A5;
+}
+
+.contextFormat
+{
+    color: black;
+    float: left;
+    font: 12px Arial;
+    margin: 0;
+}
+/*
+H1
+{
+  font-size: 16px;
+  font-family: Arial;
+  font-weight: bold;
+  color: #00457E;
+  width: 100%;
+  padding-top:10px;
+  margin-left:30px;
+  border-bottom:1px solid #00457E;
+  padding-bottom:10px;
+}
+*/
+.naetopbar
+{
+  padding:10px;
+  margin-bottom:0px;
+  width: 100%;
+}
+
+.naecontent
+{
+	padding-right:35px;
+	/*padding-left:35px;
+	width: 100%;*/
+}
+
+.charttable
+{
+	border: 5px solid #D9D4C3;
+	vertical-align: top;
+}
+
+/* ======================= */
+/* Indicator Status Colors */
+/* ======================= */
+/* Grey */
+.statusColor5
+{
+	background-color:#B4AF91;
+}
+
+/* Green */
+.statusColor4
+{
+	background-color:#30F543;
+}
+
+/* Yellow */
+.statusColor3
+{
+	background-color:#FFFF66;
+}
+
+/* Orange */
+.statusColor2
+{
+	background-color:#FF6633;
+}
+
+/* Red */
+.statusColor1
+{
+	background-color:#CC0000;
+}
+
+/* Dark Red */
+.statusColor0
+{
+	background-color:#000000;
+	color:#FFFFFF;
+}
+
+td.PlusMinusImage
+{
+     width:10px;
+     vertical-align:middle;
+     border:none;
+     border-top:none;
+     border-left:none;
+}
+
+table.DefPropertyTableClassSCO
+{
+    border-collapse:collapse;
+    vertical-align:top;
+    border:1px solid #EDEDED;
+    width:100%;
+    margin-top:0px;
+}
+
+table.InnerPropertyTableClassSCO
+{
+    border-collapse:collapse;
+    vertical-align:top;
+    border-top:1px solid #EDEDED;
+    border-bottom:1px solid #EDEDED;
+    width:100%;
+    margin-top:0px;
+}
+
+table.DefPropertyTableClassSCO tr td
+{
+    padding:0;
+    vertical-align:top;
+}
+
+/* property page  */
+
+td.x-btn-left
+{
+    padding:0;
+    margin: 0;
+}
+
+td.x-btn-right
+{
+    padding:0;
+    margin: 0;
+}
+
+ul.x-tab-strip
+{
+    padding:0;
+    margin: 0;
+}
+
+
+UL
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+A
+{
+    FONT-WEIGHT: normal;
+  /*  COLOR: #2256a4; */
+	color:#3CA95C;
+  /*  TEXT-DECORATION: none */
+}
+
+A:hover
+{
+    /*BACKGROUND-COLOR: #dfdbc8;*/
+    TEXT-DECORATION: underline;
+}
+
+/* ========= */
+/* mainTitle */
+/* ========= */
+
+.SelectAllInTable
+{
+    font-size: 8px;
+    font-family: Arial;
+    float:right;
+    padding-right:5px;
+    padding-top:5px;
+    color:white;
+}
+
+.SelectAllInTable a
+{
+    color:white;
+}
+
+.diagTitle
+{
+	font-weight: bold;
+	font-size: 10pt;
+	color:white;
+	font-family: Arial;
+	vertical-align: top;
+    background-color:#EDEDED;
+}
+
+td.mainTitle
+{
+	font-weight: bold;
+	font-size: 10pt;
+	color:#213487;
+	font-family: Arial;
+	vertical-align: top;
+  	background-color:#EDEDED;
+
+}
+
+td.mainTitle img
+{
+    margin-top:4px;
+}
+
+
+
+/* ===================== Show Hide Sections Table ================= */
+
+td.DefContentAClass
+{  text-align:center;
+   vertical-align:top;
+   border-bottom:1px solid #DBDBDB;
+   border-left:1px solid #DBDBDB;
+   border-top:1px solid #DBDBDB;
+   border-RIGHT:1px solid #DBDBDB;
+   background-color:#F1F1F1;
+}
+
+td.DefContentAClassAlt
+{  text-align:center;
+   vertical-align:top;
+   border-bottom:1px solid #DBDBDB;
+   border-left:1px solid #DBDBDB;
+   border-top:1px solid #DBDBDB;
+   border-RIGHT:1px solid #DBDBDB;
+   background-color:white;
+}
+
+td.DefContentBClass
+{  text-align:center;
+   vertical-align:top;
+   border-bottom:1px solid #DBDBDB;
+   border-left:1px solid #DBDBDB;
+   border-top:1px solid #DBDBDB;
+   border-RIGHT:1px solid #DBDBDB;
+   background-color:#F1F1F1;
+}
+
+td.DefContentBClassAlt
+{  text-align:center;
+   vertical-align:top;
+   border-bottom:1px solid #DBDBDB;
+   border-left:1px solid #DBDBDB;
+   border-top:1px solid #DBDBDB;
+   border-RIGHT:1px solid #DBDBDB;
+   background-color:white;
+}
+
+td.DefContentNoBackGroundClass
+{
+  text-align:center;
+   vertical-align:top;
+   border-bottom:1px solid #DBDBDB;
+   border-left:1px solid #DBDBDB;
+   border-top:1px solid #DBDBDB;
+   border-RIGHT:1px solid #DBDBDB;
+}
+
+.lightGreyBorder
+{
+   border-bottom:1px solid #DBDBDB;
+   border-left:1px solid #DBDBDB;
+   border-top:1px solid #DBDBDB;
+   border-RIGHT:1px solid #DBDBDB;
+}
+
+.lightGreyLeftBorder
+{
+   border-left:1px solid #DBDBDB;
+}
+
+.lightGreyRightBorder
+{
+   border-RIGHT:1px solid #DBDBDB;
+}
+
+.lightGreyTopBorder
+{
+   border-top:1px solid #DBDBDB;
+}
+
+.lightGreyBottomBorder
+{
+   border-bottom:1px solid #DBDBDB;
+}
+
+table.DefTableClass
+{
+border:1px solid #EDEDED;
+border-collapse:collapse;
+text-align:top;
+}
+/**/
+
+td.ComplianceSectionTitle
+{
+    width:100%;
+    height:100%;
+    Font-size: 10pt;
+    font-family: Arial;
+    vertical-align: top;
+    background-color:#F1F1F1;
+    border:none;
+    padding:0;
+    border:1px solid #EDEDED;
+}
+
+.twocolums td.DefContentClass {
+	border-color:#FFFFFF #EDEDED #EDEDED #EDEDED;
+	border-style:solid;
+	border-width:1px;
+	width:20%;
+	vertical-align: top;
+}
+
+td.DefContentClass {
+	border-color:#EDEDED #EDEDED #EDEDED #EDEDED;
+	border-style:solid;
+	border-width:1px;
+	vertical-align: top;
+}
+
+td.DefContentClassBottom {
+	border-color:#FFFFFF #EDEDED #EDEDED #EDEDED;
+	border-style:solid;
+	border-width:1px;
+        vertical-align:bottom;
+}
+
+table.ComplianceTable
+{
+  text-align:top;
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  table-layout:fixed;
+  border-collapse:collapse;
+}
+
+td.DefElementClass
+{
+    border-top:none;
+    border-left:none;
+    border-bottom:1px solid #DBDBDB;
+    border-left:hidden;
+    background-color:#F1F1F1;
+    vertical-align:top;
+}
+
+td.DefElementClassAlt
+{
+    border-top:none;
+    border-left:none;
+    border-bottom:1px solid #DBDBDB;
+    border-left:hidden;
+    background-color:white;
+    vertical-align:top;
+}
+
+td.ElementClassWithoutBorder
+{
+    background-color:#F1F1F1;
+    vertical-align:top;
+}
+
+td.ElementClassWithoutBorderAlt
+{
+    background-color:white;
+    vertical-align:top;
+}
+
+
+td.DefEmptyElementClass
+{
+  padding-left:16px;
+  border-top:none;
+  border-bottom:none;
+  border-left:none;
+  border-right:none;
+  background-color:#F1F1F1;
+}
+
+td.DefEmptyElementClassAlt
+{
+  padding-left:16px;
+  border-top:none;
+  border-bottom:none;
+  border-left:none;
+  border-right:none;
+  background-color:white;
+}
+
+
+td.DefImageClass
+{
+ width:20px;
+ vertical-align:top;
+ border:none;
+ border-top:none;
+ border-left:none;
+}
+
+td.DefImageClassSH
+{
+ padding-top:10px;
+ width:16px;
+ text-align:center;
+}
+
+td.DefFirstLineContentAClass
+{
+    background-color:#EDEDED;
+    padding-left:6px;
+    padding-right:6px;
+	padding-bottom:8px;
+    border-RIGHT:1px solid #DBDBDB;
+    border-Left:1px solid #DBDBDB;
+	vertical-align:bottom;
+}
+
+td.DefFirstLineContentBClass
+{
+    background-color:#EDEDED;
+    padding-left:6px;
+    padding-right:6px;
+	padding-bottom:8px;
+    border-RIGHT:1px solid #DBDBDB;
+    border-Left:1px solid #DBDBDB;
+	vertical-align:bottom;
+}
+
+td.CLeft
+{
+    text-align:left;
+}
+
+td.CRight
+{
+    text-align:right;
+}
+
+.DefElementClass table
+{
+    border-style:none;
+}
+
+.DefElementClassAlt table
+{
+    border-style:none;
+}
+
+/* ========= */
+/* TableReport */
+/* ========= */
+
+table.DefReportTableClass
+{
+    border-collapse:collapse;
+    vertical-align:top;
+    width:100%;
+}
+
+td.DefTitleReportClass
+{
+	font-weight: bold;
+	font-size: 10pt;
+	font-family: Arial;
+	vertical-align: top;
+    padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:16px;
+}
+
+td.DefSubTitleReportClass
+{
+    font-weight: bold;
+    Font-size: 8pt;
+    font-family: Arial;
+    vertical-align: top;
+	padding-bottom:6px;
+	padding-left:4px;
+	padding-right:4px;
+    border:none;
+}
+
+td.DefMainDescReportClass
+{
+ color: black;
+ font-family: Arial;
+ padding-left:4px;
+ padding-right:4px;
+ padding-top:10px;
+ padding-bottom:10px;
+}
+
+td.DefDescClass
+{
+ 	color: black;
+	font-family: Arial;
+	padding-bottom: 4px;
+	padding-right:4px;
+	vertical-align: top;
+    padding-top:10px;
+	padding-bottom:4px;
+}
+
+td.DefChartReportClass
+{
+	padding-bottom:4px;
+}
+
+td.DefContentReportClass
+{
+	padding-bottom:4px;
+}
+
+
+/* ===================== Property Table ================= */
+table.DefPropertyTableClass
+{
+    border-collapse:collapse;
+    vertical-align:top;
+    border:1px solid #EDEDED;
+    width:100%;
+    margin-top:4px;
+}
+
+td.propertyTitle div.DefCommentClass {
+    color:#333333;
+    font-family: Arial;
+    font-size:10px;
+    font-size-adjust:none;
+    font-weight:normal;
+    line-height:15px;
+    vertical-align:top;
+    padding-bottom:4px;
+    padding-right:4px;
+    padding-top:10px;
+}
+
+td div.DefCommentClass
+{
+ 	color: white;
+	font-family: Arial;
+	font-size: 6 pt;
+	padding-bottom: 4px;
+	padding-right:4px;
+	vertical-align: top;
+    padding-top:10px;
+	padding-bottom:4px;
+}
+
+table.TightPropertyTableClass
+{
+border-collapse:collapse;
+vertical-align:top;
+border:1px solid #EDEDED;
+}
+
+td.TightContentClass
+{
+     border:1px solid #EDEDED;
+     width:1px;
+     white-space:nowrap;
+}
+
+td.sectiontitle
+{
+    Font-size: 10pt;
+    font-family: Arial;
+    vertical-align: top;
+    background-color:#F1F1F1;
+    border:none;
+    padding-left:8px;
+    padding-right:8px;
+    border:1px solid #EDEDED;
+}
+
+td.SectionTitle
+{
+    Font-size: 10pt;
+    font-family: Arial;
+    vertical-align: top;
+    background-color:#F1F1F1;
+    border:none;
+    padding-left:8px;
+    padding-right:8px;
+    border:1px solid #EDEDED;
+}
+
+td.sectiontitleBottom
+{
+    Font-size: 10pt;
+    font-family: Arial;
+    vertical-align: bottom;
+    background-color:#F1F1F1;
+    border:none;
+    padding-left:8px;
+    padding-right:8px;
+    border:1px solid #EDEDED;
+	padding-left:6px;
+    padding-right:6px;
+	padding-bottom:8px;
+}
+
+td.sectiontitle a
+{
+    color:black;
+    text-decoration: none;
+}
+
+td.SectionTitle a
+{
+    color:black;
+    text-decoration: none;
+}
+
+td.subsectiontitle
+{
+    Font-size: 10pt;
+    font-family: Arial;
+    vertical-align: top;
+    background-color:#F1F1F1;
+    border:none;
+    padding-left:8px;
+    padding-right:8px;
+    border:1px solid #EDEDED;
+    text-align:center;
+}
+
+td.propertyTitleCenter
+{
+    background-color:#D0D0D0;
+    color:#333333;
+    font-family: Arial;
+    font-size:11px;
+    font-size-adjust:none;
+    font-weight:bold;
+    line-height:15px;
+    vertical-align:top;
+    text-align:center;
+}
+
+td.sortedColumn {
+  background-color: #F1F1F1;
+}
+
+td.sortedColumnSec {
+  background-color: #D4D4D4;
+}
+
+td.sortedColumnSec a
+{
+    color:black;
+}
+
+
+.twocolums td.DefContentClassFirst
+{
+    border-color:#EDEDED #EDEDED #EDEDED #EDEDED;
+    border-style:solid none solid solid;
+    border-width:1px;
+    width:80%;
+}
+
+td.DefContentClassFirst
+{
+    border-color:#EDEDED #EDEDED #EDEDED #EDEDED;
+    border-style:solid none solid solid;
+    border-width:1px;
+    width:400px;
+}
+
+td.propertyTitle
+{
+    background-color:#D0D0D0;
+    color:#333333;
+    font-family: Arial;
+    font-size:11px;
+    font-size-adjust:none;
+    font-weight:bold;
+    line-height:15px;
+    vertical-align:top;
+    text-align:left;
+}
+
+td.PropertyTitle
+{
+    background-color:#D0D0D0;
+    color:#333333;
+    font-family: Arial;
+    font-size:11px;
+    font-size-adjust:none;
+    font-weight:bold;
+    line-height:15px;
+    vertical-align:top;
+    text-align:left;
+}
+
+caption.propertyTitle
+{
+    background-color:#D0D0D0;
+    color:#333333;
+    font-family: Arial;
+    font-size:11px;
+    font-size-adjust:none;
+    font-weight:bold;
+    line-height:15px;
+    vertical-align:top;
+    text-align:left;
+    padding: 2px;
+}
+
+td.sectiontitle a:active, td a:hover
+{
+  color: #0a3999;
+  text-decoration: underline;
+
+}
+
+td.SectionTitle a:active, td a:hover
+{
+  color: #0a3999;
+  text-decoration: underline;
+
+}
+
+/* ========= */
+/* ShowHideTable */
+/* ========= */
+table.DefShowHideTable
+{
+    border:1px solid #EDEDED;
+}
+
+/* ========= */
+/* Percent */
+/* ========= */
+table.percent
+{
+    width:100%;
+    padding:0;
+    border-collapse:collapse;
+}
+
+td.DefaultPercentColor
+{
+    background: #F1F1F1;
+    border-right: 4px solid green;
+    border-top:hidden;
+    border-left: none;
+    border-bottom: none;
+    height:10px;
+}
+
+td.DefautPercentText
+{
+   	color: black;
+	font-family: Arial;
+	font-size: 7pt;
+	border-bottom:hidden;
+	border-right:hidden;
+}
+
+/* =========== */
+/* Analysis List */
+/* =========== */
+
+table.analysisTypeList
+{
+	border-color:Black;
+	border-width:1px;
+	border-top-style:solid;
+	border-left-style:solid;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	width:100%;
+	font-size: 6pt;
+	font-family: Arial;
+	color: black;
+}
+
+td.analysisTypeList
+{
+	padding: 2px;
+}
+
+.analysisTemplate
+{
+	background-color: #F1F1F1;
+}
+
+.rootFolder
+{
+	background-color: #cccccc;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-color:Black;
+	font-size: 12pt;
+	font-weight: bold;
+	padding: 2px;
+}
+
+.folder
+{
+	padding: 2px;
+	background-color: #99ccff;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-color:Black;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+.Milestone_EachNewButton
+{
+    border: 1px solid black;
+	text-align:center;
+	background-color:#afa1b2;
+}
+
+.Between_Two_Buttons
+{
+    width:2px;
+}
+
+
+/********************************************************************/
+.Planned_Element_Name
+{
+    background-color: #afa1b2;
+    vertical-align: middle;
+    font-family: Arial;
+    text-align: left;
+    border: 1px solid #4b454c;
+    border-bottom-width:0px;
+    border-top-width:0px;
+    border-right-color: #e1cfe6;
+    border-left-color: #e1cfe6;
+    border-right-width:3px;
+    border-left-width:3px;
+}
+
+.Planned_Element_Name_If_Add
+{
+    background-color: #afa1b2;
+    vertical-align: middle;
+    font-family: Arial;
+    text-align: left;
+    border: 1px solid #4b454c;
+    border-bottom-width:0px;
+    border-top-width:0px;
+    border-right-color: #afa1b2;
+    border-left-color: #e1cfe6;
+    border-right-width:0px;
+    border-left-width:3px;
+}
+
+.Add_Period
+{
+    background-color: #afa1b2;
+    vertical-align: text-bottom;
+    font-family: Arial;
+    text-align: right;
+    border: 1px solid #4b454c;
+    border-bottom-width:0px;
+    border-top-width:0px;
+    border-right-color: #e1cfe6;
+    border-left-color: #afa1b2;
+    border-right-width:3px;
+    border-left-width:0px;
+}
+/********************************************************************/
+.Central_Line
+{
+    background-color: #afa1b2;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+}
+/* beware, between .Central_Line and .Central_Line_PassOver only the color may change!*/
+.Central_Line_PassOver /* when a period passes over. Same color as the period */
+{
+	background-color:#FFFF66;
+}
+.Central_Line_Removed  /* when a period begins or ends with an outside-the master plan milestone */
+{
+	background-color:#e1cfe6;
+}
+/********************************************************************/
+.Empty_Cell
+{
+    background-color:#e1cfe6;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+}
+.Empty_Cell_Passover
+{
+    background-color:#FFFF66;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+}
+/********************************************************************/
+.Separating_Cell_1
+{
+    background-color:#e1cfe6;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+}
+.Separating_Cell_2
+{
+    background-color:#afa1b2;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+}
+/********************************************************************/
+
+.Separating_Cell_Milestone_1
+{
+    background-color:#afa1b2;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+	height:3px;
+}
+.Separating_Cell_Milestone_2
+{
+    background-color:#e1cfe6;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+	height:3px;
+}
+.Central_Line_Milestone
+{
+    background-color: #afa1b2;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+	height:3px;
+}
+
+.Central_Line_Outside_Milestone
+{
+    background-color: #e1cfe6;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    padding-top: 0px;
+	height:3px;
+}
+
