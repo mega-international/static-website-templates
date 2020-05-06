@@ -1,0 +1,75 @@
+// To be accepted for upload, a file must have an extension in the whitelist 
+// AND do not have a mime type in the blacklist.
+{
+  "extensionWhitelist" : [
+    "rtf",
+    "doc",
+    "xls",
+    "pps",
+    "ppt",
+    "docx",
+    "xlsx",
+    "ppsx",
+    "pptx",
+    "odt",
+    "ods",
+    "odp",
+    "odg",
+    "odc",
+    "odm",
+    "mpp",
+    "csv",
+    "pdf",
+    "zip",
+    "json",
+    "latex",
+    "mp3",
+    "wav",
+    "wax",
+    "mka",
+    "ogg",
+    "gif",
+    "png",
+    "bmp",
+    "jpg",
+    "jpeg",
+    "jpe",
+    "tiff",
+    "tif",
+    "svg",
+    "ico",
+    "htm",
+    "html",
+    "txt",
+    "css",
+    "mge",
+    "mgl",
+    "mgr",
+    "log",
+    "ini",
+    "xmg",
+    "xml",
+    "avi",
+    "mov",
+    "mp4",
+    "mpeg",
+    "mkv",
+    "xpdl",
+    "msg",
+    "vsd",
+    "vsdx",
+    "bpmn",
+    "xlsm"
+  ],
+  "mimeBlacklist" : [
+    // Mime types are detected through the FindMimeFromData Windows method.
+    // Details and supported mime type: https://msdn.microsoft.com/en-us/library/ms775147%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396
+    // "application/octet-stream", // Default type for binary unrecognized type, might be too restrictive
+    "application/x-shockwave-flash", // Not detected by FindMimeFromData
+    "application/javascript", // Not detected by FindMimeFromData
+    "application/java",
+    "application/x-msdownload",
+    "application/macbinhex40",
+    "text/scriptlet"
+  ]
+}
