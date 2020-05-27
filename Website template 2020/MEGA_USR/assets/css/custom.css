@@ -115,10 +115,16 @@ h1 {
     background-color: #F5F8F9;
     text-align: center;
 }
-
-.text-muted {
-	color: #22354B!important
-}
+  @media screen and (max-width: 1500px) {
+	.text-muted {
+	color: #22354B!important;
+	font-size : 10px;
+  } }
+   @media screen and (min-width: 1500px) {
+	.text-muted {
+	color: #22354B!important;
+	font-size : 14px;
+  } }
 
 /* ==================================  INDEX PAGES  ================================== */
    
@@ -215,7 +221,11 @@ button.buttons-excel a{
 /* ==================================  INDEX TABLES  ================================== */
 
 
-
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc{
+	border-top:0px;
+	border-bottom:0px;
+}
 
 table.dataTable thead .sorting_asc::before,
 table.dataTable thead .sorting_desc::after{
@@ -253,7 +263,7 @@ table.dataTable thead .sorting_desc_disabled {
 }
 table.dataTable thead th, table.dataTable thead td {
     padding: 10px 18px;
-    border-bottom: 1px solid #11111138;
+    border-bottom: 1px solid #dee2e6;
 	font-weight: 700 !important;
 	font-size: 16px;
 }
@@ -549,6 +559,7 @@ h4 {
     color: #fff;
     text-decoration: none; }
   
+  @media screen and (min-width: 1500px) {
   .category-block {
 	background: #ffffff;
     /* margin: 0 auto; */
@@ -558,14 +569,34 @@ h4 {
     margin: 10px auto;
     min-height: 150px;
 	width : 218px;
-	}
+  } }
+
+  @media screen and (max-width: 1500px) {
+	.category-block {
+	background: #ffffff;
+    /* margin: 0 auto; */
+    text-align: center;
+    border: 1px solid #e5e7ef;
+    padding: 10px;
+    margin: 10px auto;
+    min-height: 80px;
+	width : 118px;
+  } }
+	
     .category-block h6 {
       color: #3e434b;
       margin: 10px 0 0; }
   
+  
+  @media screen and (min-width: 1500px) {
   .category-img {
     width: 44px;
-    height: 44px; }
+	height: 44px; } }
+	
+	@media screen and (max-width: 1500px) {
+  .category-img {
+    width: 22px;
+	height: 22px; } }
 
 /* ==============================================================
    FIND PLACES
