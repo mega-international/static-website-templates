@@ -2575,12 +2575,12 @@
   color: rgba(0, 0, 0, 0.87);
   font-weight: normal;
   font-size: 13px;
-  font-family: "Roboto", "RobotoFallback", "Helvetica", "Arial", sans-serif;
+  font-family: "Verdana","Roboto", "RobotoFallback", "Helvetica", "Arial", sans-serif;
   line-height: 1.2857;
 }
 .dx-widget input,
 .dx-widget textarea {
-  font-family: "Roboto", "RobotoFallback", "Helvetica", "Arial", sans-serif;
+  font-family: "Verdana","Roboto", "RobotoFallback", "Helvetica", "Arial", sans-serif;
   line-height: 1.2857;
 }
 .dx-state-disabled.dx-widget,
@@ -10020,7 +10020,7 @@
 /*  color: rgba(0, 0, 0, 0.87); */
 	color : #22354b;
  	font-weight : 700;
-	font-size : 16px;
+	font-size : 14px;
 
 }
 .dx-treelist-headers .dx-treelist-table .dx-row > td:hover .dx-treelist-text-content {
