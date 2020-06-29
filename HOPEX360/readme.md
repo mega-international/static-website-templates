@@ -2,7 +2,7 @@
 
 # HOPEX360
 
-Modern HOPEX Website Template. This allows you to generate static hmtl pages that includes diagrams, reports and all the data you need to share with a wide audience.. licence free
+Modern HOPEX Website Template. This allows you to generate static hmtl pages that includes diagrams, reports and all the ITPM / ITBM data you need to share with a wide audience.. licence free
 
 ## How to install
 Install it as a Solution Pack
