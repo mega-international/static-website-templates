@@ -1,0 +1,402 @@
+var tipuesearch={"pages":[{"title":"","Object type":"","Modification Date":"","text":"","tags":"","url":""},{"title":"API Gateway","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7455CF088CA.htm"}
+,{"title":"API MAPI","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7455CF088E7.htm"}
+,{"title":"API MRCD - Recu Checker","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7465CF088FD.htm"}
+,{"title":"Application 1","ObjectType":"Application","ModificationDate":"2020/04/14 09:14:31","text":"Début des prises de jeu le samedi 7 février 2004.1er tirage le vendredi 13 février 2004.L'administration centrale du jeu est confiée au SLE dont le rôle est d'assurer, notamment, le tirage, le calcul des rapports et la gestion des transferts de fonds entre ses membres par l'intermédiaire d'un Trust britannique. L'intégrité du jeu repose, pour l'essentiel, sur les fichiers de combinaison (CombiFile) qui sont transmis par chacune des loteries au SLE avant le début du tirage.","tags":"","url":"A911B0E556DE7F1D.htm"}
+,{"title":"BAN","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7465CF08915.htm"}
+,{"title":"BIC - Base d'information comptable","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7465CF0893F.htm"}
+,{"title":"Bingo Game Server T3","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7465CF08957.htm"}
+,{"title":"Business Object","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7465CF0896D.htm"}
+,{"title":"Camée-Pénélope","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7465CF08981.htm"}
+,{"title":"CAP Adresse","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08997.htm"}
+,{"title":"CAP Email","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF089AF.htm"}
+,{"title":"Cautionnement des PDV","ObjectType":"Application","ModificationDate":"2020/03/31 09:38:51","text":"","tags":"","url":"D37AD7465CF089C5.htm"}
+,{"title":"cms-hasard?","ObjectType":"Application","ModificationDate":"2020/05/12 09:31:05","text":"","tags":"","url":"D37AD7465CF089DA.htm"}
+,{"title":"Coffre ARJEL","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF089F1.htm"}
+,{"title":"Contra'Tech","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08A0A.htm"}
+,{"title":"Contradet","ObjectType":"Application","ModificationDate":"2020/03/31 09:38:50","text":"","tags":"","url":"D37AD7465CF08A20.htm"}
+,{"title":"Cotre","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08A35.htm"}
+,{"title":"CTI SDJ","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08A4E.htm"}
+,{"title":"CTI secteurs","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08A66.htm"}
+,{"title":"Delphes","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08A7E.htm"}
+,{"title":"digishop-a","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08A95.htm"}
+,{"title":"digishop-g","ObjectType":"Application","ModificationDate":"2020/03/31 09:38:50","text":"","tags":"","url":"D37AD7465CF08AAC.htm"}
+,{"title":"digishop-i","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08AC3.htm"}
+,{"title":"digishop-p","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08AD9.htm"}
+,{"title":"digishop-u ?","ObjectType":"Application","ModificationDate":"2020/05/12 09:22:21","text":"","tags":"","url":"D37AD7465CF08AF1.htm"}
+,{"title":"Egide IHM","ObjectType":"Application","ModificationDate":"2020/03/17 17:10:32","text":"","tags":"","url":"D37AD7465CF08B08.htm"}
+,{"title":"Egide Reporting","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7465CF08B20.htm"}
+,{"title":"ESTE","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7465CF08B38.htm"}
+,{"title":"Etafi Decisiv","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7465CF08B50.htm"}
+,{"title":"FALCON ITG","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7465CF08B67.htm"}
+,{"title":"FALCON OPR","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7465CF08B80.htm"}
+,{"title":"FALCON RTG","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7465CF08B96.htm"}
+,{"title":"FALCON TOOLS/BOX T2","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7465CF08BB7.htm"}
+,{"title":"FALCON USR","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7475CF08BCB.htm"}
+,{"title":"FRP Treasury","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7475CF08BE0.htm"}
+,{"title":"GeoRestriction","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7475CF08BFF.htm"}
+,{"title":"HASARD - Site fdj.fr","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7475CF08C16.htm"}
+,{"title":"Hypervision","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7475CF08C32.htm"}
+,{"title":"Infocentre Calypso","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:13","text":"","tags":"","url":"D37AD7475CF08C4B.htm"}
+,{"title":"Infocentre Egide","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:08","text":"","tags":"","url":"D37AD7475CF08C65.htm"}
+,{"title":"Infocentre Kheops","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:08","text":"","tags":"","url":"D37AD7475CF08C79.htm"}
+,{"title":"Infocentre SID Reporting Logistique","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:08","text":"","tags":"","url":"D37AD7475CF08C92.htm"}
+,{"title":"Infocentre Stock Grattage","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:08","text":"","tags":"","url":"D37AD7475CF08CAA.htm"}
+,{"title":"Interdit Jeu Hasard Responsable","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08CC6.htm"}
+,{"title":"Interface référentiel acteurs","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08CDE.htm"}
+,{"title":"iRBM","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08CF7.htm"}
+,{"title":"ITF-BackendIF","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08D0F.htm"}
+,{"title":"ITF-GW Player","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08D28.htm"}
+,{"title":"KDS","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08D3D.htm"}
+,{"title":"Kheops","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08D59.htm"}
+,{"title":"MIG API Inscription","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08D77.htm"}
+,{"title":"MOBI - Site mobile hasard","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7475CF08D92.htm"}
+,{"title":"Moteurs de Jeux","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08DA7.htm"}
+,{"title":"MOTORS ADMIN","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08DBF.htm"}
+,{"title":"MOTORS Jeux","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08DD8.htm"}
+,{"title":"MOTORS Moteur","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08DF5.htm"}
+,{"title":"MOTORS Moteur ILLIKO Live","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08E09.htm"}
+,{"title":"OLIMP","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08E22.htm"}
+,{"title":"Oracle EPM","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08E3A.htm"}
+,{"title":"Payline Monext","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08E50.htm"}
+,{"title":"Playscan","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08E69.htm"}
+,{"title":"Référentiel Distribution MDM","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:02","text":"","tags":"","url":"D37AD7475CF08E7E.htm"}
+,{"title":"Resocom","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08E97.htm"}
+,{"title":"Saga","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08EB4.htm"}
+,{"title":"service-draws","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08ECB.htm"}
+,{"title":"SGI API Logistique","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08EE3.htm"}
+,{"title":"SGI Forms","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08EFD.htm"}
+,{"title":"SGI GMS","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08F16.htm"}
+,{"title":"SGI Logistique","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08F30.htm"}
+,{"title":"SGI Tomcat","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08F47.htm"}
+,{"title":"SGI TXE","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08F60.htm"}
+,{"title":"SGI Weblogic","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08F74.htm"}
+,{"title":"Software Neptune","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08F88.htm"}
+,{"title":"Speed Commande","ObjectType":"Application","ModificationDate":"2020/04/16 10:13:18","text":"","tags":"","url":"D37AD7485CF08F9E.htm"}
+,{"title":"T3 Jose Backoffice JTR","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF08FB8.htm"}
+,{"title":"Titan","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF08FD2.htm"}
+,{"title":"TST Nom App 4 V3.4","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"E6E909D15D405212.htm"}
+,{"title":"TST Nom App 4 V3.5","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"E6E909D15D405230.htm"}
+,{"title":"TST Nom app 5 V11.1","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"E6E909D15D40524D.htm"}
+,{"title":"Ulysse","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF08FE6.htm"}
+,{"title":"WCS appli","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF08FFF.htm"}
+,{"title":"WCS appli-1","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF09016.htm"}
+,{"title":"Webapp - Amigo","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF09030.htm"}
+,{"title":"Webapp - Euromillions","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF09049.htm"}
+,{"title":"Webapp - Keno","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF09063.htm"}
+,{"title":"Webapp - Lobby BINGO","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF0907B.htm"}
+,{"title":"Webapp - Loto","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF09093.htm"}
+,{"title":"Webapp - Paris sportifs","ObjectType":"Application","ModificationDate":"2020/03/31 09:39:27","text":"","tags":"","url":"D37AD7485CF090B0.htm"}
+,{"title":"Widget IHM Event","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7485CF090C9.htm"}
+,{"title":"widget-account","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7485CF090E3.htm"}
+,{"title":"WOF - Widget offre","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7485CF090FE.htm"}
+,{"title":"Zeuki","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7485CF09116.htm"}
+,{"title":"ZZ_BI Publisher","ObjectType":"Application","ModificationDate":"2020/04/16 10:14:30","text":"","tags":"","url":"D37AD7465CF0892A.htm"}
+,{"title":"BCM As Is","ObjectType":"Business Capability Map","ModificationDate":"2020/04/14 08:06:35","text":"","tags":"","url":"F034F0705CF0502C.htm"}
+,{"title":"BCM To Be","ObjectType":"Business Capability Map","ModificationDate":"2020/04/14 08:06:47","text":"","tags":"","url":"726B7F225E84F5C5.htm"}
+,{"title":"Achats","ObjectType":"Business Capability","ModificationDate":"2019/05/31 09:14:25","text":"","tags":"","url":"F034F0715CF052F1.htm"}
+,{"title":"Activité Commerciale","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"Toutes les activités susceptibles de générer, renforcer des revenus","tags":"","url":"F034F0705CF050D7.htm"}
+,{"title":"Administration des ventes","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"F034F0705CF0515F.htm"}
+,{"title":"Anticiper l'activité client","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"F034F0715CF051E6.htm"}
+,{"title":"Approvisionnement","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"F034F0705CF05151.htm"}
+,{"title":"Authentifier","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"F034F0715CF05400.htm"}
+,{"title":"Capa 1","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F4C5E84F67D.htm"}
+,{"title":"Capa 1.1","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F6C5E84F8A4.htm"}
+,{"title":"Capa 1.2","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F745E84F937.htm"}
+,{"title":"Capa 1.3","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F7E5E84F9BA.htm"}
+,{"title":"Capa 2","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F535E84F6E7.htm"}
+,{"title":"Capa 2.1","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F945E84FAD6.htm"}
+,{"title":"Capa 2.2","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F9A5E84FAFE.htm"}
+,{"title":"Capa 3","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"726B7F5B5E84F74F.htm"}
+,{"title":"Cataloguer","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:29:42","text":"","tags":"","url":"F034F0725CF05485.htm"}
+,{"title":"Certifier","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF053E5.htm"}
+,{"title":"Coeur Métier Jeux","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"Toutes activités liées a la création, la gestion et la délivrance des services et produits aux clients","tags":"","url":"F034F0705CF05068.htm"}
+,{"title":"Collecter les infos clients","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"en favorisant l'authentification des joueurs","tags":"","url":"F034F0705CF051D6.htm"}
+,{"title":"Connaissance Client","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0705CF0511F.htm"}
+,{"title":"Contractualisation","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF0522D.htm"}
+,{"title":"Contrôler","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF0540C.htm"}
+,{"title":"Contrôler le jeu responsable","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF053A0.htm"}
+,{"title":"Definir la périodicité des jeux","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF0526D.htm"}
+,{"title":"Définir le mix produit ou catalogue","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF05335.htm"}
+,{"title":"Définir le type de paris","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF05357.htm"}
+,{"title":"Dépannage matériel","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF051EF.htm"}
+,{"title":"Déterminer les gagnants","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF0537C.htm"}
+,{"title":"Développer Bassin de joueurs","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"La promotion des offres et services FDJ","tags":"","url":"F034F0705CF0510F.htm"}
+,{"title":"Développer des jeux innovants","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF05291.htm"}
+,{"title":"Développer la relation pro","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF05278.htm"}
+,{"title":"Développer les maquettes","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF05315.htm"}
+,{"title":"Enrichir l'offre jeux","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF05299.htm"}
+,{"title":"Etendre le réseau commercial","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0705CF050E8.htm"}
+,{"title":"Evoluer","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"trajectoire de carrière","tags":"","url":"F034F0725CF05461.htm"}
+,{"title":"Evolution métier / tendances de marché","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0705CF0507F.htm"}
+,{"title":"Executer les jeux","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF052A5.htm"}
+,{"title":"Facturation","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:30:27","text":"","tags":"","url":"F034F0715CF05239.htm"}
+,{"title":"Finance","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF052D8.htm"}
+,{"title":"Fonctions Support","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0705CF05072.htm"}
+,{"title":"Former","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0725CF05445.htm"}
+,{"title":"Garantir la conformité","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05396.htm"}
+,{"title":"Gérer la comptabilité","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05419.htm"}
+,{"title":"Gérer la fiscalité","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05424.htm"}
+,{"title":"gérer la période de vente","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05364.htm"}
+,{"title":"Gérer la propriété intellectuelle","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF053C2.htm"}
+,{"title":"Gérer la trésorerie","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05430.htm"}
+,{"title":"Gérer le risque financier","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF053AD.htm"}
+,{"title":"Gérer le risque légal","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF053B9.htm"}
+,{"title":"Gérer le risque social","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF053CC.htm"}
+,{"title":"Gestion administrative","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"Salaires, absence, etc.","tags":"","url":"F034F0725CF05452.htm"}
+,{"title":"Gestion canal de distribution","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"La gestion de tout types de canaux de distribution au travers duquel FDJ distribue ses produits et services","tags":"","url":"F034F0705CF050A8.htm"}
+,{"title":"Gestion commerciale","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0705CF05129.htm"}
+,{"title":"Gestion de la logistique","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05207.htm"}
+,{"title":"Gestion de la marque","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"Analyse et évolution de la perception de la marque  ","tags":"","url":"F034F0705CF05193.htm"}
+,{"title":"Gestion de la sécurité","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF052C9.htm"}
+,{"title":"Gestion des campagnes de ciblage","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"identification, ciblage multi channel des messages marketing (recrutement, nurturing, reactivation)","tags":"","url":"F034F0705CF051A7.htm"}
+,{"title":"Gestion des clients","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0705CF050BA.htm"}
+,{"title":"Gestion des commandes","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05215.htm"}
+,{"title":"Gestion des crédits","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05246.htm"}
+,{"title":"Gestion des détaillants","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"l'ensemble des activités liés aux détaillants","tags":"","url":"F034F0705CF050C3.htm"}
+,{"title":"Gestion des Opérations","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF052FB.htm"}
+,{"title":"Gestion des sites","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:31:07","text":"","tags":"","url":"F034F0715CF05307.htm"}
+,{"title":"Gestion des stocks","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF051F9.htm"}
+,{"title":"Gestion du risque","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF052BC.htm"}
+,{"title":"Gouvernance métier","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF0509B.htm"}
+,{"title":"identifier","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF053DA.htm"}
+,{"title":"industrialisation la production","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF0532A.htm"}
+,{"title":"Maintenir le Ptf de produits","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF0534C.htm"}
+,{"title":"Market Access","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF0505E.htm"}
+,{"title":"Moderniser l'offre","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF05342.htm"}
+,{"title":"Nouveaux Services","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF05102.htm"}
+,{"title":"Objectifs de vente","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF0525E.htm"}
+,{"title":"Opérations commerciales","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF0518A.htm"}
+,{"title":"Payer","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0725CF05493.htm"}
+,{"title":"Pilotage de perf commerciale","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF0516D.htm"}
+,{"title":"Planification","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF0517B.htm"}
+,{"title":"Prévision de vente","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF05252.htm"}
+,{"title":"Programme fidélisation","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"Promotions, Valeur Client","tags":"","url":"F034F0705CF051B7.htm"}
+,{"title":"Promulguer les résultats","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF0538B.htm"}
+,{"title":"Proposer des offres commerciales","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF05285.htm"}
+,{"title":"Réception des commandes","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF05223.htm"}
+,{"title":"Recruter","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF0543B.htm"}
+,{"title":"Relation Produit","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF05137.htm"}
+,{"title":"Ressources Humaines","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF052E6.htm"}
+,{"title":"Sourcer","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0725CF0547C.htm"}
+,{"title":"Stratégie d'Entreprise","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF05042.htm"}
+,{"title":"Support","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"Toutes activités soutenant le détaillant","tags":"","url":"F034F0705CF05146.htm"}
+,{"title":"Surveiller l'activité de jeu","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF052B2.htm"}
+,{"title":"Tester les maquettes","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF0531F.htm"}
+,{"title":"tracer","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF053F4.htm"}
+,{"title":"Traiter les demandes","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0725CF05471.htm"}
+,{"title":"traiter les PdJ","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0715CF05371.htm"}
+,{"title":"Transformation métier","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF0508D.htm"}
+,{"title":"Trouver de nouveaux canaux","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF050F4.htm"}
+,{"title":"Valorisation des gagnants","ObjectType":"Business Capability","ModificationDate":"2020/04/14 11:32:53","text":"","tags":"","url":"F034F0705CF051C8.htm"}
+,{"title":"Advisory","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:06","text":"Advisory","tags":"","url":"9ACC0F9C5D445356.htm"}
+,{"title":"Audit","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:39","text":"Audit","tags":"","url":"9ACC0F995D4451BC.htm"}
+,{"title":"Business Continuity Management","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:37","text":"Business Continuity Management","tags":"","url":"9ACC0F9F5D445594.htm"}
+,{"title":"Business Process-1","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"","tags":"","url":"9ACC0F275D444F86.htm"}
+,{"title":"Business Process-2","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"","tags":"","url":"51797E5D5E77826E.htm"}
+,{"title":"Compliance","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"Compliance","tags":"","url":"9ACC0F995D44516A.htm"}
+,{"title":"Control Function","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"Control Function","tags":"","url":"9ACC0F985D445118.htm"}
+,{"title":"CORE PROCESSES","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"CORE PROCESSES","tags":"","url":"9ACC0F9A5D44520E.htm"}
+,{"title":"Corporate Planning","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"Corporate Planning","tags":"","url":"9ACC0F975D445022.htm"}
+,{"title":"éèà","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:39","text":"","tags":"","url":"AE7DB9C75E85FA6B.htm"}
+,{"title":"ENABLING PROCESSES","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:37","text":"ENABLING PROCESSES","tags":"","url":"9ACC0F9E5D44549E.htm"}
+,{"title":"Equity","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:06","text":"Equity","tags":"","url":"9ACC0F9B5D4452B2.htm"}
+,{"title":"Funding","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:37","text":"Funding","tags":"","url":"9ACC0F9D5D4453FA.htm"}
+,{"title":"Guarantee","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:37","text":"Guarantee","tags":"","url":"9ACC0F9B5D445304.htm"}
+,{"title":"Loan","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"Loan","tags":"","url":"9ACC0F9A5D445260.htm"}
+,{"title":"MANAGEMENT PROCESSES","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:39","text":"MANAGEMENT PROCESSES","tags":"","url":"9ACC0F975D445074.htm"}
+,{"title":"Mandate Management","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:48:07","text":"Mandate Management","tags":"","url":"9ACC0F985D4450C6.htm"}
+,{"title":"Personnel","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:06","text":"Personnel","tags":"","url":"9ACC0F9F5D445542.htm"}
+,{"title":"Purchasing & Procurement","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:37","text":"Purchasing & Procurement","tags":"","url":"9ACC0F9E5D4454F0.htm"}
+,{"title":"Technical assistance","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:37","text":"Technical assistance","tags":"","url":"9ACC0F9C5D4453A8.htm"}
+,{"title":"Treasury","ObjectType":"Business Process","ModificationDate":"2020/04/16 10:49:06","text":"Treasury","tags":"","url":"9ACC0F9D5D44544C.htm"}
+,{"title":"Action Plan","ObjectType":"Class","ModificationDate":"2019/06/24 08:33:34","text":"","tags":"","url":"81818ADE5D1074D9.htm"}
+,{"title":"Actions","ObjectType":"Class","ModificationDate":"2019/06/24 08:33:39","text":"","tags":"","url":"81818AE35D107580.htm"}
+,{"title":"Application","ObjectType":"Class","ModificationDate":"2020/03/19 09:47:46","text":"","tags":"","url":"2EC871A55D1C46F5.htm"}
+,{"title":"Audit","ObjectType":"Class","ModificationDate":"2019/07/03 13:59:18","text":"","tags":"","url":"7C34B4B65D1C812C.htm"}
+,{"title":"Audit , Risk  ","ObjectType":"Class","ModificationDate":"2019/07/03 13:59:36","text":"","tags":"","url":"7C34B4C85D1C832D.htm"}
+,{"title":"Audit Plan","ObjectType":"Class","ModificationDate":"2019/07/03 13:59:13","text":"","tags":"","url":"7C34B4B15D1C8085.htm"}
+,{"title":"Business Line Activity","ObjectType":"Class","ModificationDate":"2019/07/03 09:21:52","text":"","tags":"","url":"2EC870BA5D1C4111.htm"}
+,{"title":"Business Line Group","ObjectType":"Class","ModificationDate":"2019/07/03 09:21:41","text":"","tags":"","url":"818189385D10609A.htm"}
+,{"title":"Control","ObjectType":"Class","ModificationDate":"2019/06/24 08:25:59","text":"","tags":"","url":"818189175D105F44.htm"}
+,{"title":"Control Assessment Node","ObjectType":"Class","ModificationDate":"2019/06/24 08:34:58","text":"","tags":"","url":"81818B005D1078B7.htm"}
+,{"title":"Control Context Element","ObjectType":"Class","ModificationDate":"2019/06/24 08:28:52","text":"","tags":"","url":"818189C05D1068B5.htm"}
+,{"title":"Control Type","ObjectType":"Class","ModificationDate":"2019/06/24 08:25:15","text":"","tags":"","url":"818188EA5D105E9D.htm"}
+,{"title":"Country / Entity","ObjectType":"Class","ModificationDate":"2019/07/03 09:26:20","text":"","tags":"","url":"2EC871B05D1C479C.htm"}
+,{"title":"Element at Risk","ObjectType":"Class","ModificationDate":"2020/03/19 10:22:39","text":"","tags":"","url":"818189A65D106808.htm"}
+,{"title":"Entity","ObjectType":"Class","ModificationDate":"2019/07/03 09:24:41","text":"","tags":"","url":"2EC874585D1C523B.htm"}
+,{"title":"Gagnant Euromillions","ObjectType":"Class","ModificationDate":"2020/03/18 10:48:33","text":"","tags":"","url":"F9A3FA045E700DB9.htm"}
+,{"title":"Mega Process","ObjectType":"Class","ModificationDate":"2019/07/03 09:14:52","text":"","tags":"","url":"818189425D106141.htm"}
+,{"title":"Org Process","ObjectType":"Class","ModificationDate":"2019/06/24 08:26:48","text":"","tags":"","url":"818189485D1061E8.htm"}
+,{"title":"OU Activity","ObjectType":"Class","ModificationDate":"2019/07/03 09:22:10","text":"","tags":"","url":"2EC873C25D1C4F04.htm"}
+,{"title":"OU Group","ObjectType":"Class","ModificationDate":"2019/07/03 09:22:00","text":"","tags":"","url":"2EC873B85D1C4E5D.htm"}
+,{"title":"Process","ObjectType":"Class","ModificationDate":"2019/07/03 09:15:13","text":"","tags":"","url":"2EC872205D1C4A19.htm"}
+,{"title":"Region","ObjectType":"Class","ModificationDate":"2019/07/03 09:10:02","text":"","tags":"","url":"818189315D105FF3.htm"}
+,{"title":"Reporting Lines","ObjectType":"Class","ModificationDate":"2019/07/03 09:09:30","text":"","tags":"","url":"2EC870CA5D1C41B8.htm"}
+,{"title":"Risk","ObjectType":"Class","ModificationDate":"2019/06/24 08:25:07","text":"","tags":"","url":"818188E35D105DF6.htm"}
+,{"title":"Risk Assessment Node","ObjectType":"Class","ModificationDate":"2019/06/24 08:35:24","text":"","tags":"","url":"81818B4C5D107965.htm"}
+,{"title":"Risk Type","ObjectType":"Class","ModificationDate":"2019/06/24 08:24:56","text":"","tags":"","url":"818188D75D105D40.htm"}
+,{"title":"Sub Process","ObjectType":"Class","ModificationDate":"2019/07/03 09:15:21","text":"","tags":"","url":"2EC872285D1C4AC0.htm"}
+,{"title":"Sub Reporting Lines","ObjectType":"Class","ModificationDate":"2019/07/03 09:09:42","text":"","tags":"","url":"2EC870D45D1C425F.htm"}
+,{"title":"TestClass","ObjectType":"Class","ModificationDate":"2020/03/17 11:15:48","text":"","tags":"","url":"85F7B1605E708BF4.htm"}
+,{"title":"Application","ObjectType":"Concept","ModificationDate":"2020/03/18 11:15:37","text":"","tags":"","url":"FD1C02D95E724C7C.htm"}
+,{"title":"Application","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"The system perspective of a DoDAF architecture.It is modeled thanks to a MEGA application.","tags":"","url":"03260A1548970075.htm"}
+,{"title":"Application Portfolio","ObjectType":"Concept","ModificationDate":"2020/03/18 11:16:52","text":"","tags":"","url":"FD1C03245E724F88.htm"}
+,{"title":"Business Capability","ObjectType":"Concept","ModificationDate":"2020/03/18 11:16:11","text":"","tags":"","url":"FD1C02FB5E724DB0.htm"}
+,{"title":"Business Capability Map","ObjectType":"Concept","ModificationDate":"2020/03/18 11:15:53","text":"","tags":"","url":"FD1C02E95E724D16.htm"}
+,{"title":"Business Process","ObjectType":"Concept","ModificationDate":"2020/03/18 11:16:25","text":"","tags":"","url":"FD1C03095E724E54.htm"}
+,{"title":"Gagnant Euromillions","ObjectType":"Concept","ModificationDate":"2020/03/17 16:25:42","text":"","tags":"","url":"F9A3FA055E700DF4.htm"}
+,{"title":"Master Plan","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"The master plan perspective of a DoDAF architecture.It is modeled thanks to a MEGA master plan.","tags":"","url":"62F364A248D70043.htm"}
+,{"title":"Mission","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"The mission perspective of a DoDAF architecture.It is modeled thanks to a MEGA business process.","tags":"","url":"032611B0489700B9.htm"}
+,{"title":"Operation","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:08","text":"The operational perspective of a DoDAF architecture.It is modeled thanks to a MEGA business function.","tags":"","url":"032611D9489700DB.htm"}
+,{"title":"Org Unit","ObjectType":"Concept","ModificationDate":"2020/03/18 11:16:32","text":"","tags":"","url":"FD1C03105E724EEE.htm"}
+,{"title":"Organization","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:08","text":"The organizational perspective of a DoDAF architecture.It is modeled thanks to a MEGA structure org-unit.","tags":"","url":"03261201489700FD.htm"}
+,{"title":"Portfolio","ObjectType":"Concept","ModificationDate":"2020/03/18 11:23:46","text":"","tags":"","url":"FD1C04C25E72555A.htm"}
+,{"title":"Process","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"It is modeled thanks to a Mega Organizational Process.","tags":"","url":"501750AE48EF0036.htm"}
+,{"title":"Service","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"It is modeled thanks to a MEGA service.","tags":"","url":"6A2B6FF248D30064.htm"}
+,{"title":"Software Technology","ObjectType":"Concept","ModificationDate":"2020/03/18 11:17:04","text":"","tags":"","url":"FD1C03305E725022.htm"}
+,{"title":"System","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:08","text":"This root use case overviews how the entire system is used.","tags":"","url":"846186D048D801A9.htm"}
+,{"title":"System Process","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:09","text":"The system process perspective of a DoDAF architecture.It is modeled thanks to a MEGA system process.","tags":"","url":"0884222348CE0328.htm"}
+,{"title":"Technology Portfolio","ObjectType":"Concept","ModificationDate":"2020/03/18 11:17:19","text":"","tags":"","url":"FD1C033F5E7250BC.htm"}
+,{"title":"Term","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:10","text":"It is modeled thanks to a MEGA Data Model.","tags":"","url":"C3F0D59248D337A1.htm"}
+,{"title":"Term","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"The system location perspective of a DoDAF architecture.It is modeled thanks to a MEGA site.","tags":"","url":"032608A648970052.htm"}
+,{"title":"Term","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"The mission perspective of a DoDAF architecture.It is modeled thanks to a MEGA business process (2007).","tags":"","url":"85E5895848E3003A.htm"}
+,{"title":"Term","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"The physical schema perspective of a DoDAF architecture.It is modeled thanks to a MEGA database.","tags":"","url":"FF81015C48D20093.htm"}
+,{"title":"Term","ObjectType":"Concept","ModificationDate":"2009/12/14 18:01:07","text":"","tags":"","url":"A37CA8E048CF0039.htm"}
+,{"title":"TestClass","ObjectType":"Concept","ModificationDate":"2020/03/17 11:15:47","text":"","tags":"","url":"85F7B1635E708CF5.htm"}
+,{"title":"A10 Networks","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B55BF563E8.htm"}
+,{"title":"Apache Foundation","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B75BF56410.htm"}
+,{"title":"Bea Systems","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B75BF56426.htm"}
+,{"title":"Citrix","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B75BF56440.htm"}
+,{"title":"Drupal Association","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"E6A7E86B5C98123D.htm"}
+,{"title":"Ecma International","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"300D30CA5C115202.htm"}
+,{"title":"FairCom","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B75BF56456.htm"}
+,{"title":"Google","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"FD280B155C92696B.htm"}
+,{"title":"HazelCast","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B75BF5646D.htm"}
+,{"title":"Hewlett Packard","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B75BF56482.htm"}
+,{"title":"IBM","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B85BF5649C.htm"}
+,{"title":"Informatica","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B85BF564AD.htm"}
+,{"title":"Joueur","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"CBE2F5535C1C3A23.htm"}
+,{"title":"KVM","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B85BF564C5.htm"}
+,{"title":"Lotsys","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"64B265E45BB351B6.htm"}
+,{"title":"Microsoft","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B85BF564DA.htm"}
+,{"title":"Mozilla Foundation","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"300D30CA5C115222.htm"}
+,{"title":"Nginx","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B85BF564EF.htm"}
+,{"title":"Openstack","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B85BF56506.htm"}
+,{"title":"Opérateur","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"utilisateur des applications back-office FDJ","tags":"","url":"B791B8B95C875AE8.htm"}
+,{"title":"Oracle","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B85BF5651C.htm"}
+,{"title":"Red Hat","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B95BF5654E.htm"}
+,{"title":"SAP AG","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B95BF56567.htm"}
+,{"title":"The PHP Group","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"FD280C975C926B95.htm"}
+,{"title":"The PostgreSQL Global Development Group","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B95BF56537.htm"}
+,{"title":"The Squid Software Foundation","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B95BF5657D.htm"}
+,{"title":"Vmware","ObjectType":"Org-Unit","ModificationDate":"2020/04/03 08:36:59","text":"","tags":"","url":"6E3C70B95BF56593.htm"}
+,{"title":"A10 vThunder 4.1","ObjectType":"Software Technology","ModificationDate":"2020/03/17 16:28:32","text":"","tags":"","url":"6E3C70B95BF565A7.htm"}
+,{"title":"AngularJS 1.7","ObjectType":"Software Technology","ModificationDate":"2020/04/16 07:16:50","text":"","tags":"","url":"FD280B395C926AC9.htm"}
+,{"title":"Apache Tomcat 5.04","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:58","text":"","tags":"","url":"6E3C70B95BF565CA.htm"}
+,{"title":"Apache Tomcat 5.11","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:58","text":"","tags":"","url":"6E3C70BA5BF565E7.htm"}
+,{"title":"Apache Tomcat 5.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:58","text":"","tags":"","url":"6E3C70BA5BF56608.htm"}
+,{"title":"Apache Tomcat 6.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 07:17:05","text":"","tags":"","url":"6E3C70BA5BF56628.htm"}
+,{"title":"Apache Tomcat 7.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 07:17:42","text":"","tags":"","url":"6E3C70BA5BF56645.htm"}
+,{"title":"Apache Tomcat 8.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BA5BF56665.htm"}
+,{"title":"Apache Tomcat 8.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BB5BF56684.htm"}
+,{"title":"Apache Web Server 2.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BB5BF566A1.htm"}
+,{"title":"Apache Web Server 2.4","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BB5BF566B7.htm"}
+,{"title":"BusinessObjects 12.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BB5BF566D0.htm"}
+,{"title":"C-TreeACE 9.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BB5BF56713.htm"}
+,{"title":"Citrix Xenapp","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BB5BF566F0.htm"}
+,{"title":"Db2Database 10.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BC5BF56738.htm"}
+,{"title":"Db2Database 9.7","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BC5BF56758.htm"}
+,{"title":"Drupal 8.x","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"E6A7E8EC5C981299.htm"}
+,{"title":"ETL Informatica","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BC5BF5677C.htm"}
+,{"title":"Exchange","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BD5BF5679B.htm"}
+,{"title":"Hazelcast IMDG 3.3","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BD5BF567C1.htm"}
+,{"title":"Hazelcast IMDG 3.6","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BD5BF567E0.htm"}
+,{"title":"Hazelcast IMDG 3.8","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"779CBCEC5C1B0B9E.htm"}
+,{"title":"HP UCMDB 10.3","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BD5BF56806.htm"}
+,{"title":"HP UCMDB 11.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:11","text":"","tags":"","url":"6E3C70BD5BF56824.htm"}
+,{"title":"HP UCMDB 9.05","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BD5BF56840.htm"}
+,{"title":"IIS Web Server 10.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BE5BF56867.htm"}
+,{"title":"IIS Web Server 6.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BE5BF56884.htm"}
+,{"title":"IIS Web Server 7.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BE5BF568A4.htm"}
+,{"title":"IIS Web Server 7.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BE5BF568C4.htm"}
+,{"title":"IIS Web Server 8.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BE5BF568E3.htm"}
+,{"title":"Java 1.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BE5BF56909.htm"}
+,{"title":"Java 1.6","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BF5BF5692C.htm"}
+,{"title":"Java 1.7","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BF5BF56949.htm"}
+,{"title":"Java 1.8","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BF5BF56967.htm"}
+,{"title":"JavaScript ES5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"300D30CB5C11523A.htm"}
+,{"title":"JavaScript ES6","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"300D30CB5C11524F.htm"}
+,{"title":"JavaScript ES7","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"300D30CB5C115267.htm"}
+,{"title":"JBoss AS 4.3","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BF5BF56989.htm"}
+,{"title":"KVM Hypervisor 0.12","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70BF5BF569A7.htm"}
+,{"title":"KVM Hypervisor 0.9","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C05BF569C5.htm"}
+,{"title":"KVM Hypervisor 1.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C05BF569E6.htm"}
+,{"title":"Lotus Domino 8.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C05BF569FF.htm"}
+,{"title":"MSMQ 5.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C15BF56A19.htm"}
+,{"title":"MSMQ 5.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C15BF56A38.htm"}
+,{"title":"MSMQ 6.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C15BF56A59.htm"}
+,{"title":"MSMQ 6.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C15BF56A79.htm"}
+,{"title":"MSMQ 6.3","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C25BF56A98.htm"}
+,{"title":"MySQL 5.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C25BF56AB5.htm"}
+,{"title":"MySQL 5.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C25BF56AD0.htm"}
+,{"title":"MySQL 5.6","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C25BF56AEF.htm"}
+,{"title":"MySQL 5.7","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C25BF56B12.htm"}
+,{"title":"Nginx 1.10","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C25BF56B3A.htm"}
+,{"title":"Nginx 1.12","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C35BF56B5A.htm"}
+,{"title":"Nginx 1.6","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:31","text":"","tags":"","url":"6E3C70C35BF56B7C.htm"}
+,{"title":"Openstack v. Ocata","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C35BF56B9D.htm"}
+,{"title":"Openstack v. Pike","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C35BF56BBD.htm"}
+,{"title":"Oracle Database 10.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C35BF56BDE.htm"}
+,{"title":"Oracle Database 10.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C35BF56BFA.htm"}
+,{"title":"Oracle Database 11.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C45BF56C21.htm"}
+,{"title":"Oracle Database 11.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C45BF56C40.htm"}
+,{"title":"Oracle Database 12.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C45BF56C5F.htm"}
+,{"title":"Oracle Database 12.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C45BF56C7E.htm"}
+,{"title":"Oracle Database 9.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C45BF56CA0.htm"}
+,{"title":"Oracle iApplication Server 9.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C55BF56CBB.htm"}
+,{"title":"Oracle TNS Listener 10.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C55BF56CDE.htm"}
+,{"title":"Oracle TNS Listener 11.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C55BF56CFE.htm"}
+,{"title":"Oracle TNS Listener 12.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C55BF56D19.htm"}
+,{"title":"Oracle TNS Listener 12.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C55BF56D3A.htm"}
+,{"title":"PHP 7.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"FD280C685C926B3D.htm"}
+,{"title":"PostgreSQL 10.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C55BF56D5E.htm"}
+,{"title":"PostgreSQL 8.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C55BF56D7C.htm"}
+,{"title":"PostgreSQL 8.15","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C65BF56D9A.htm"}
+,{"title":"PostgreSQL 8.3","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C65BF56DBC.htm"}
+,{"title":"PostgreSQL 8.4","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C65BF56DD9.htm"}
+,{"title":"PostgreSQL 9.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C65BF56DF7.htm"}
+,{"title":"PostgreSQL 9.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C75BF56E19.htm"}
+,{"title":"PostgreSQL 9.2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C75BF56E36.htm"}
+,{"title":"PostgreSQL 9.3","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C75BF56E51.htm"}
+,{"title":"PostgreSQL 9.4","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C75BF56E6F.htm"}
+,{"title":"PostgreSQL 9.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C75BF56E87.htm"}
+,{"title":"PostgreSQL 9.6","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C85BF56EAA.htm"}
+,{"title":"Red Had Linux 7.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"779CBD685C1B0BED.htm"}
+,{"title":"SAP Sybase 12.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C85BF56EC6.htm"}
+,{"title":"Software Technology-1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"E202F56A5E8A6CA2.htm"}
+,{"title":"SQL Server 2000","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C85BF56EE7.htm"}
+,{"title":"SQL Server 2005","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C85BF56F08.htm"}
+,{"title":"SQL Server 2008","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C85BF56F23.htm"}
+,{"title":"SQL Server 2008 R2","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C85BF56F49.htm"}
+,{"title":"SQL Server 2012","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C95BF56F67.htm"}
+,{"title":"SQL Server 2014","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C95BF56F84.htm"}
+,{"title":"SQL Server 2016","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C95BF56FA1.htm"}
+,{"title":"Squid Cache 3.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C95BF56FC4.htm"}
+,{"title":"Technologie logicielle-1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"BE57C9DD5C1C1BED.htm"}
+,{"title":"VMware VirtualCenter 5.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C95BF56FDC.htm"}
+,{"title":"VMware VirtualCenter 6.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70C95BF56FFE.htm"}
+,{"title":"VMware VirtualCenter 6.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70CA5BF57021.htm"}
+,{"title":"Weblogic AS 10.3","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70CA5BF57041.htm"}
+,{"title":"Weblogic AS 12.1","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70CA5BF57061.htm"}
+,{"title":"Websphere AS 7.0","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70CB5BF5707B.htm"}
+,{"title":"Websphere AS 8.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70CB5BF5709D.htm"}
+,{"title":"WebSphereMQ 8.5","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70CB5BF570C2.htm"}
+,{"title":"ZooKeeper 3.4","ObjectType":"Software Technology","ModificationDate":"2020/04/16 09:57:45","text":"","tags":"","url":"6E3C70CB5BF570E4.htm"}
+,{"title":"Portfolio 1","ObjectType":"Portfolio","ModificationDate":"2020/04/14 08:05:04","text":"","tags":"","url":"F284F2F65CF04AFE.htm"}
+,{"title":"Portfolio 2","ObjectType":"Portfolio","ModificationDate":"2020/04/14 08:05:12","text":"","tags":"","url":"F284F3035CF04B66.htm"}
+,{"title":"Portfolio 3","ObjectType":"Portfolio","ModificationDate":"2020/04/14 08:05:16","text":"","tags":"","url":"F284F2CB5CF049AE.htm"}
+,{"title":"Portfolio 3.1","ObjectType":"Portfolio","ModificationDate":"2020/04/14 08:05:45","text":"","tags":"","url":"C2E1D0DA5E7940CF.htm"}
+,{"title":"Portfolio 4","ObjectType":"Portfolio","ModificationDate":"2020/04/14 08:05:21","text":"","tags":"","url":"F284F30B5CF04BCE.htm"}
+,{"title":"Portfolio 5","ObjectType":"Portfolio","ModificationDate":"2020/04/14 08:05:33","text":"","tags":"","url":"F284F2E45CF04A2E.htm"}
+,{"title":"Portfolio 6","ObjectType":"Portfolio","ModificationDate":"2020/04/14 08:05:37","text":"","tags":"","url":"F284F2EE5CF04A96.htm"}
+]};

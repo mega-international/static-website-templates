@@ -1,0 +1,124 @@
+/* menu nav */
+
+.logo-mega{
+	width:150px;
+	margin-left:90px;
+}
+@media screen and (max-width: 1500px) {
+.navbar-mega{
+	background-color: #22354b;
+	padding-bottom: 0px;
+	padding-top: 5px;
+	font-size:10px;
+	width : 100%;
+	padding-top : 10px;
+	padding-bottom : 5px;
+} }
+@media screen and (min-width: 1500px) {
+.navbar-mega{
+	background-color: #22354b;
+	padding-bottom: 0px;
+	padding-top: 5px;
+	font-size:16px;
+	width : 100%;
+	padding-top : 10px;
+	padding-bottom : 5px;
+} }
+.search {
+	color:white;
+	margin-right:80px;
+}
+.search:hover{
+	color:white;
+}
+
+#navbarDropdownMenuLink1{
+	color: white !important;
+	padding-top: 0.25rem !important;
+	padding-bottom: 0.25rem !important;
+}
+@media screen and (max-width: 1500px) {
+.navbar-mega li a{
+	border-bottom :  2px solid transparent;
+	font-size:12px;
+}}
+@media screen and (min-width: 1500px) {
+.navbar-mega li a{
+	border-bottom :  2px solid transparent;
+	font-size:18px;
+}}
+
+.navbar-mega li a:hover{
+	background-color: #3e4e62;
+	opacity: 1.02;
+	border-bottom :  2px solid #3ca95c;
+	color: white;
+}
+
+.dropdown-item {
+  /*     color: #22354b !important */
+   color: #fff;
+}
+
+.dropdown-item:focus {
+  /*  background-color: #2256a4 !important; */
+	background-color: #3e4e62 ;
+	color: white !important 
+}
+.dropdown-item.active, .dropdown-item:active {
+    /* color: #fff;/
+   /* text-decoration: none; */
+  /*  background-color: #007bff; */
+  /* background-color: #3e4e62; */
+	background-color: #3e4e62;
+	opacity: 1.02;
+	border-bottom :  2px solid #3ca95c;
+}
+.dropdown-menu {
+	background-color: #22354b ;
+}
+.dropdown-menu-last {
+	float: right; 
+}
+@media screen and (min-width: 768px) {
+  .dropdown:hover .dropdown-menu, .btn-group:hover .dropdown-menu{
+		display: block;
+	}
+	.dropdown-menu{
+		margin-top: 0;
+	}
+	.dropdown-toggle{
+		margin-bottom: 2px;
+	}
+	.navbar .dropdown-toggle, .nav-tabs .dropdown-toggle{
+		margin-bottom: 0;
+	}
+}
+/* ============================ */
+/* ======breadcrumb ======== */
+
+.breadcrumb {
+	background: transparent;
+}
+
+.breadcrumb-item.active {
+    color: #22354B !important;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+    color: #3CA95C;
+}
+.breadcrumb a{
+   color:#3CA95C;
+   font-weight : 700;
+}
+#ZoomTable {
+	float: right;
+}
+
+
+
+
+
+
+
+
