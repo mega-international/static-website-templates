@@ -517,6 +517,18 @@ h4 {
 .btn {
     margin: 0 5px 5px 0;
 }
+  @media (min-width: 1411px) {
+		.selectRationalization {
+			font-size : 14px;
+   } } 
+   @media (max-width: 1410px) {
+	 	.selectRationalization {
+			font-size : 13px;
+   } }  
+   @media (max-width: 1010px) {
+	 	.selectRationalization {
+			font-size : 12px;
+   } }  	   
 /* ==============================================================
    CATEGORIES
    ============================================================== */
@@ -1147,7 +1159,7 @@ th input {
   background-color: #fefefe;
   margin: auto;
   margin-top:20px;
-  padding: 10px;
+  padding: 0px;
   border: 1px solid #dee2e6;
   width: 31.5%;
   /* height : 50px; */
@@ -1157,20 +1169,42 @@ th input {
   border-radius: 5px;
 }
 .popup_header {
-	position: sticky;
+/*	position: sticky;
   top: 0;
-  background-color: #fefefe;
+  background-color: #fefefe; */
+   position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #22354b;
+  padding: 10px;
+  font-size: 18px;
+
+  margin : 0;
 }
 .popup_content {
 
 }
 .popup_dash  h5{
-	color: #5aa972 !important;
-	text-decoration:underline; 
+	/*color: #5aa972 !important;
+	text-decoration:underline; */
 	font-weight: 700;
 	font-size : 16px;
+	top: auto;
+	color:white;
 	 /* position: fixed; */
 	 /* margin-bottom : 20px; */
+}
+.popup_dash li {
+  list-style: none; /* Remove default bullets */
+}
+
+.popup_dash  li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #31b672; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: 1em; /* Also needed for space (tweak if needed) */
 }
 .popup_dash  a{
 	color: #22354b !important;
