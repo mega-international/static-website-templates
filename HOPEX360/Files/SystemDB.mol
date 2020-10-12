@@ -1,6 +1,6 @@
 
-- Execution       : Extraction (2020/07/08 13:11:12)
-- File exported   : C:\Users\FBT\OneDrive - MEGA International\09-PO\Static website\05_Deliveries\HOPEX360-Template_20200708_2.mgr
+- Execution       : Extraction (2020/10/12 07:54:43)
+- File exported   : C:\Users\FBT\OneDrive - MEGA International\09-PO\Static website\05_Deliveries\Git\static-website-template\OBJ1012.mgr
 - Environment     : C:\Users\Public\Documents\HOPEX V3\Standard V3
 - DataBase        : DB
 - User            : fbt
@@ -327,7 +327,7 @@
 -      HOPEX Website Template::HOPEX360_Overall
 -      HOPEX Website Template::HOPEX360_Search_Closing Bracket
 -      HOPEX Website Template::HOPEX360_Search_Opening Bracket
--      HOPEX360_v1.1
+-      HOPEX360_v1.2
 -      HOPEX360_Post Generation Script_Search Indexing
 -      HOPEX360_Index_Business_Process
 -      HOPEX Website Template::HOPEX360_Application Retirement Plan
@@ -819,7 +819,7 @@
 - Descriptor                              HOPEX360_Object_Subject_Area
 - Descriptor                              HOPEX360_Index Business Capa Tree List
 - Folder of Code Templates                HOPEX360
-- Web Site Template                       HOPEX360_v1.1
+- Web Site Template                       HOPEX360_v1.2
 - MetaCommand Manager                     HOPEX360_Post Generation Script_Search Indexing
 - MetaCommand Manager                     HOPEX360_Post Generation Script CIO Dashboard JSON
 - MetaCommand Manager                     HOPEX360_Post Generation Script App JSON
@@ -25202,13 +25202,13 @@ Av–b‹ê:7
 .Create ."~uMOYrdeyqO00[Web Site Template]" "HOPEX_Website_2020_V1.2  (Duplicate)  (Duplicate)" -
         .CHK "vopFm(JqULwUC30000mCpCpC" -
         ."~510000000L00[Creation Date]"                      "2020/05/29 17:00:32" -
-        ."~610000000P00[Modification Date]"                  "2020/07/02 07:56:31" -
+        ."~610000000P00[Modification Date]"                  "2020/10/12 07:35:50" -
         ."~(10000000v30[Creator]"                            "DeeMDgMbUbhX" -
         ."~b10000000L20[Modifier]"                           "DeeMDgMbUbhX" -
         ."~520000000L40[Create Version]"                     "30837" -
         ."~620000000P40[Update Version]"                     "30837" -
         ."~)20000000z70[Reading access area identifier]"     "sTlVwxdH3100" -
-        ."~FpDyR5uj6WZC[Name (English)]"                     "HOPEX360_v1.1" -
+        ."~FpDyR5uj6WZC[Name (English)]"                     "HOPEX360_v1.2" -
         ."~ZoDyR5uY6WZC[Name (FranÁais)]"                    "HOPEX360_v1" -
         ."~nKOYCfeyqS20[Home Page Name]"                     "index.htm" -
         ."~ZsATkINtxW40[HomePageTemplate (English)]"         "index_us.mth" -
@@ -25226,14 +25226,14 @@ Av–b‹ê:7
         ."~KLCLyhcY5LG0[Site Map Formator IdAbs]"            "gw7a6SfWPvgT" -
         ."~5LCLoXbY5D90[Site Map Template Is In Mth Format]" "0" -
         ."~a20000000H60[Language Update Date]"               "2020/05/15 11:45:52" -
-        ."~c4Z7zM2OxaL0[LanguageUpdateDate (English)]"       "2020/07/02 07:56:31" -
+        ."~c4Z7zM2OxaL0[LanguageUpdateDate (English)]"       "2020/10/12 07:35:50" -
         ."~K4Z7qM2Ox0L0[LanguageUpdateDate (FranÁais)]"      "2020/06/29 15:46:36" -
         ."~y20000000n70[Object Origin IdAbs]"                "Mz(3uOZpUjsK"
 
 -  "Web Site Template" "HOPEX_Website_2020_V1.2  (Duplicate)  (Duplicate)"
 .Update ."~uMOYrdeyqO00[Web Site Template]" "HOPEX_Website_2020_V1.2  (Duplicate)  (Duplicate)" -
         .CHK "vopFm(JqULwU" -
-        ."~610000000P00[Modification Date]"                  "2020/07/02 07:56:31" -
+        ."~610000000P00[Modification Date]"                  "2020/10/12 07:35:50" -
         ."~b10000000L20[Modifier]"                           "DeeMDgMbUbhX" -
         ."~PcpwYrUqq420[Web Site data]" "G3000000W10S" 
 006804S)GiQ7W0E4Q000000000000000000000m0())u01W09000000000000100000000002
@@ -29413,6 +29413,18 @@ Av–b‹ê:7
 0068000000000000000000000000000000000000000000000000000000000000000000000
 0068000000000000000000000000000000000000000000000000000000000000000000000
 00201000000000000000000000000
+.
+
+-  "Web Site Template" "HOPEX_Website_2020_V1.2  (Duplicate)  (Duplicate)"
+.Update ."~uMOYrdeyqO00[Web Site Template]" "HOPEX_Website_2020_V1.2  (Duplicate)  (Duplicate)" -
+        .CHK "vopFm(JqULwU" -
+        ."~610000000P00[Modification Date]"                  "2020/10/12 07:35:50" -
+        ."~b10000000L20[Modifier]"                           "DeeMDgMbUbhX" -
+        ."~c4Z7zM2OxaL0[LanguageUpdateDate (English)]"       "2020/10/12 07:35:50" -
+        ."~4mDyR58x6WZC[Comment (English)]" "g3TCfAJnyq00" 
+00680SbnxCMPqRc5SN6bpSsvXS6DfCZ5dN38rPcLaN31cPcLaRc5iC35dUpOpRsPST7HkUsnY
+00680C6PSRcPSN6nfQ6DcSt9XC7HbKqqWQ5CWR6nbR4GWVJjdTbnzTsLfRcbhN3HaCMDrON1S
+00602N6HoN31cCdDcI20mHL1FDZDOPY0m879lK4z885X583DMCb13ScyWOMmWScLq07qA
 .
 
 -  "MetaCommand Manager" "MetaCommand Manager-3"
@@ -38307,6 +38319,16 @@ Av–b‹ê:7
         .CHK "n0jlAUnMSD6wkhhySgFMo820" -
         ."~710000000T00[Link creation date]"                 "2019/02/06 17:21:14" -
         ."~810000000X00[Link modification date]"             "2019/02/06 17:21:14" -
+        ."~720000000T40[Link Creator]"                       "DeeMDgMbUbhX" -
+        ."~920000000b40[Link Modifier]"                      "DeeMDgMbUbhX" -
+        ."~410000000H00[Order]"                              "9999"
+
+-  "Descriptor" "HOPEX EA_Org_Unit_Index"
+-  "_Collection" "05AB06EB5F843AF0"
+.Connect ."~YdAe83gyhG10[Descriptor]" "HOPEX EA_Org_Unit_Index" ."~t0dElqZ02rD0[_Collection]" "05AB06EB5F843AF0" -
+        .CHK "n0jlAUnMSD6wkkQ1hR0XV1lE" -
+        ."~710000000T00[Link creation date]"                 "2020/10/12 07:34:03" -
+        ."~810000000X00[Link modification date]"             "2020/10/12 07:34:03" -
         ."~720000000T40[Link Creator]"                       "DeeMDgMbUbhX" -
         ."~920000000b40[Link Modifier]"                      "DeeMDgMbUbhX" -
         ."~410000000H00[Order]"                              "9999"
