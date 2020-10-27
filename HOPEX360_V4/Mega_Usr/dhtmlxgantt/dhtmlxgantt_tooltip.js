@@ -1,0 +1,16 @@
+/*
+@license
+
+dhtmlxGantt v.3.2.1 Professional
+This software is covered by DHTMLX Enterprise License. Usage without proper license is prohibited.
+
+(c) Dinamenta, UAB.
+*/
+Gantt.plugin(function(t){t._tooltip={},t._tooltip_class="gantt_tooltip",t.config.tooltip_timeout=30,t.config.tooltip_offset_y=20,t.config.tooltip_offset_x=10,t._create_tooltip=function(){return this._tooltip_html||(this._tooltip_html=document.createElement("div"),this._tooltip_html.className=t._tooltip_class),this._tooltip_html},t._is_cursor_under_tooltip=function(t,e){return t.x>=e.pos.x&&t.x<=e.pos.x+e.width?!0:t.y>=e.pos.y&&t.y<=e.pos.y+e.height?!0:!1},t._show_tooltip=function(e,n){if(!t.config.touch||t.config.touch_tooltip){
+var i=this._create_tooltip();i.innerHTML=e,t.$task_data.appendChild(i);var a=i.offsetWidth+20,s=i.offsetHeight+40,r=this.$task.offsetHeight,o=this.$task.offsetWidth,l=this.getScrollState();n.y+=l.y;var _={x:n.x,y:n.y};n.x+=1*t.config.tooltip_offset_x||0,n.y+=1*t.config.tooltip_offset_y||0,n.y=Math.min(Math.max(l.y,n.y),l.y+r-s),n.x=Math.min(Math.max(l.x,n.x),l.x+o-a),t._is_cursor_under_tooltip(_,{pos:n,width:a,height:s})&&(_.x+a>o+l.x&&(n.x=_.x-(a-20)-(1*t.config.tooltip_offset_x||0)),_.y+s>r+l.y&&(n.y=_.y-(s-40)-(1*t.config.tooltip_offset_y||0))),
+i.style.left=n.x+"px",i.style.top=n.y+"px"}},t._hide_tooltip=function(){this._tooltip_html&&this._tooltip_html.parentNode&&this._tooltip_html.parentNode.removeChild(this._tooltip_html),this._tooltip_id=0},t._is_tooltip=function(e){var n=e.target||e.srcElement;return t._is_node_child(n,function(t){return t.className==this._tooltip_class})},t._is_task_line=function(e){var n=e.target||e.srcElement;return t._is_node_child(n,function(t){return t==this.$task_data})},t._is_node_child=function(e,n){for(var i=!1;e&&!i;)i=n.call(t,e),
+e=e.parentNode;return i},t._tooltip_pos=function(e){if(e.pageX||e.pageY)var n={x:e.pageX,y:e.pageY};var i=_isIE?document.documentElement:document.body,n={x:e.clientX+i.scrollLeft-i.clientLeft,y:e.clientY+i.scrollTop-i.clientTop},a=t._get_position(t.$task_data);return n.x=n.x-a.x,n.y=n.y-a.y,n},t.attachEvent("onMouseMove",function(e,n){if(this.config.tooltip_timeout){document.createEventObject&&!document.createEvent&&(n=document.createEventObject(n));var i=this.config.tooltip_timeout;this._tooltip_id&&!e&&(isNaN(this.config.tooltip_hide_timeout)||(i=this.config.tooltip_hide_timeout)),
+clearTimeout(t._tooltip_ev_timer),t._tooltip_ev_timer=setTimeout(function(){t._init_tooltip(e,n)},i)}else t._init_tooltip(e,n)}),t._init_tooltip=function(t,e){if(!this._is_tooltip(e)&&(t!=this._tooltip_id||this._is_task_line(e))){if(!t)return this._hide_tooltip();this._tooltip_id=t;var n=this.getTask(t),i=this.templates.tooltip_text(n.start_date,n.end_date,n);return i?void this._show_tooltip(i,this._tooltip_pos(e)):void this._hide_tooltip()}},t.attachEvent("onMouseLeave",function(e){t._is_tooltip(e)||this._hide_tooltip();
+
+}),t.templates.tooltip_date_format=t.date.date_to_str("%Y-%m-%d"),t.templates.tooltip_text=function(e,n,i){return"<b>Task:</b> "+i.text+"<br/><b>Start date:</b> "+t.templates.tooltip_date_format(e)+"<br/><b>End date:</b> "+t.templates.tooltip_date_format(n)}});
+//# sourceMappingURL=../sources/ext/dhtmlxgantt_tooltip.js.map
