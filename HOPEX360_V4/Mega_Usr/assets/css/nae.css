@@ -129,7 +129,7 @@ td.title
 /* ===== */
 TABLE
 {
-    font-size: 8pt;
+    /* font-size: 8pt; */
     padding:0;
     border-collapse:collapse;
     border-style:none;
