@@ -1500,3 +1500,9 @@ input[type='search'] {
  .ml-1 {
 	 display : none;
  }
+ .dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+}
